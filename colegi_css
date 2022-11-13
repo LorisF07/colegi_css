@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title>Personal page</title>
+
+       
+    </head>
+
+
+    <body>
+        <h1>Name: Hordoan Darius-Marian</h1>
+        <p>Email: hordoandarius@yahoo.com</p>
+        <img src="Images/MyPicture.jpg" height="400px" width="300px"/>
+        <p>Citat: „Educația este ceea ce rămâne după ce ai uitat ce ai învățat in școală.”(Albert Einstein) </p>
+        <table>
+            <tr>
+                <th>Denumire</th>
+                <th>Link</th>
+            </tr>
+            <tr>
+                <td>Bazele electrotehnicii</td> 
+                <td><a href="https://el.el.obs.utcluj.ro/site/2021_2022/tst/PDF/TST13.00.pdf"> Aici </a></td>
+            </tr>
+            <tr>
+                <td>Dispozitive electronice </td> 
+                <td><a href="https://el.el.obs.utcluj.ro/site/2021_2022/tst/PDF/TST12.00.pdf"> Aici </a></td>
+            </tr>
+            <tr>
+                <td>Semnale și sisteme</td> 
+                <td><a href="https://el.el.obs.utcluj.ro/site/2021_2022/tst/PDF/TST17.00.pdf"> Aici </a></td>
+            </tr>
+            <tr>
+                <td>Transmisii de date </td> 
+                <td><a href="https://el.el.obs.utcluj.ro/site/2021_2022/tst/PDF/TST49.10.pdf"> Aici </a></td>
+            </tr>
+            <tr>
+                <td>Comunicații Mobile </td> 
+                <td><a href="https://el.el.obs.utcluj.ro/site/2021_2022/tst/PDF/TST47.00.pdf">Aici</a></td>
+            </tr>
+    
+        </table>
+
+        <h4>Hobby-uri:</h4>
+        <ul> 
+            <li>Programare</li> 
+            <li>Electronică</li> 
+            <li>Securitate Cibernetică</li> 
+            <li>Inteligență artificială</li> 
+            <li>Fotbal</li> 
+        </ul>
+    </body>
+</html>
+<body>
+<head>
+<style>
+body {
+  background-color: white;
+  color: gray;
+}
+
+h1 {
+  background-color: black;
+  color: green;
+}
+
+</style>
+</head>
+<body>
+
+<h1>Laborator 5</h1>
+<p>Nume:Ferragosto Loris</p>
+<p>Email:ferragostoloris18@gmail.com</p>
+<p>Educatia este pur si simplu sufletul societatii trecand de la o generatie la alta. Asteptarile mele sunt de a deveni inginer la finalizarea facultatii</p>
+<img src="poza.jpg" alt="Italian Trulli">
+<style>
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 200;
+}
+</style>
+</head>
+<body>
+
+<h2>Pasiuni si Hobby-uri</h2>
+
+<ul>
+  <li>Gaming</li>
+  <li>Condusul masinii</li>
+  <li>Calatoriile</li>
+</ul>  
+
+<html>
+<style>
+
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<body>
+
+<h2>Tabel discipline pe care doresc sa le aprofundez </h2>
+
+<table style="width:100%">
+  <tr>
+    <th>Disciplina </th>
+    <th>Anul de studiu</th>
+    <th>Fisa disciplinei</th>
+  </tr>
+  <tr>
+    <td>Semnale si sisteme</td>
+    <td>Anul 2</td>
+    <td>https://etti.utcluj.ro/files/Acasa/Site/FiseDisciplina/EaRo/17.pdf</td>
+  </tr>
+  <tr>
+    <td>Tehnologii web</td>
+    <td>Anul 3</td>
+    <td>https://etti.utcluj.ro/files/Acasa/Site/FiseDisciplina/EaRo/35.pdf</td>
+  </tr>
+  <tr>
+  <td>Microelectronica</td>
+    <td>Anul 4</td>
+    <td>https://etti.utcluj.ro/files/Acasa/Site/FiseDisciplina/EaRo/49_20.pdf</td>
+  </tr>
+</table>
+
+
+</body>
+</html>
